@@ -1,7 +1,7 @@
 **Authors:**
 
-- Anna W. Anna W. \<https://devforum.roblox.com/u/ImActuallyAnna\>
-- Skylar L. \<https://devforum.roblox.com/u/ScobayDu\>
+- Anna W. Anna W. [https://devforum.roblox.com/u/ImActuallyAnna]
+- Skylar L. [https://devforum.roblox.com/u/ScobayDu]
 
 **Description:** RBXM File Reader
 
